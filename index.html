@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Barcode Scanner</title>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/quagga2/0.12.1/quagga.min.js"></script>
+    <style>
+      body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+#scanner-container {
+    margin: 0 auto;
+    border: 2px solid #ddd;
+    display: inline-block;
+}
+
+#result {
+    margin-top: 20px;
+}
+    </style>
+</head>
+<body>
+    <h1>Barcode Scanner</h1>
+    <div id="scanner-container">
+        <video id="scanner" width="600" height="400"></video>
+    </div>
+    <div id="result">
+        <h2>Scanned Code:</h2>
+        <p id="barcode-result">None</p>
+    </div>
+    <script>
+      document.addEventListener('DOMContentLoaded', () => {
+    if (navigator.mediaDevices && navigator.mediaDevices.getUserMedia) {
+        const scannerContainer = document.getElementById('scanner');
+        
+        // QuaggaJS configuration
+        Quagga.init({
+            inputStream: {
+                name: 'Live',
+                type: 'LiveStream',
+                target: scannerContainer, // Or '#scanner' to use the CSS selector
+                constraints: {
+                    facingMode: 'environment' // Use rear camera for better results
+                }
+            },
+            decoder: {
+                readers: ['code_128_reader', 'ean_reader', 'ean_8_reader', 'code_39_reader', 'code_93_reader', 'upc_reader'] // Supported formats
+            },
+            locate: true
+        }, function(err) {
+            if (err) {
+                console.error(err);
+                return;
+            }
+            Quagga.start();
+        });
+
+        // Event listener for detected codes
+        Quagga.onDetected(function(data) {
+            const code = data.codeResult.code;
+            document.getElementById('barcode-result').textContent = code;
+        });
+
+        // Handle stopping and restarting the scanner
+        window.addEventListener('beforeunload', function () {
+            Quagga.stop();
+        });
+    } else {
+        alert('Your browser does not support media devices.');
+    }
+});
+    </script>
+</body>
+</html>
