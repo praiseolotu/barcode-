@@ -1,67 +1,56 @@
-﻿[0:00 - 0:05]
+*Title:* Revolutionizing Retail with PJTech's PBoti
 
-(Upbeat background music starts playing. Camera pans over a bustling supermarket)
 
-Narrator: "Imagine a retail experience where technology seamlessly integrates with efficiency and reliability."
+*[Scene 1: Introduction] (0s-5s)*
 
-[0:06 - 0:10]
 
-(Camera zooms in on a cashier using an Android mobile device with pjtechPOS)
+- Animated PJTech logo
+- Upbeat background music starts playing
+- Narrator: "Imagine a world where retail is seamless, efficient, and cost-effective."
 
-Narrator: "Introducing pjtechPOS - the innovative point of sale solution that's changing the game."
 
-[0:11 - 0:15]
+*[Scene 2: Problem Statement] (5s-15s)*
 
-(Visuals of multiple Android devices connected to a central server, with transactions happening seamlessly)
 
-Narrator: "With pjtechPOS, multiple instances can connect to a central server, streamlining operations across your store."
+- Animated graphics illustrating long checkout lines, failed transactions, and frustrated customers
+- Narrator: "But today, retailers face numerous challenges: abandoned carts, failed payments, and dissatisfied customers."
 
-[0:16 - 0:20]
 
-(Camera shows a cashier using a mobile barcode scanner to scan products quickly)
+*[Scene 3: Introducing PBoti] (15s-30s)*
 
-Narrator: "Our mobile barcode scanner integrates seamlessly, ensuring lightning-fast transactions and accurate product identification."
 
-[0:21 - 0:25]
+- Animated PBoti logo and messaging interface
+- Narrator: "Introducing PBoti, PJTech's game-changing instant messaging bot."
 
-(Visuals of various payment options being accepted - credit/debit cards, mobile payments, cryptocurrencies)
 
-Narrator: "Accept all payment options with ease, including contactless transactions, and provide your customers with a seamless checkout experience."
+*[Scene 4: Key Features] (30s-45s)*
 
-[0:26 - 0:30]
 
-(Camera shows a store manager accessing the central server, tracking sales and inventory in real-time)
+- Animated graphics highlighting:
+    - Secure payments (PCI-DSS compliant)
+    - 4-currency support
+    - Telegram and WhatsApp integration
+    - Free mobile barcode scanning
+    - Easy checkout with bank app or browser
+- Narrator: "With PBoti, enjoy secure payments, seamless checkout, and global support."
 
-Narrator: "Our central server provides real-time insights, empowering data-driven decisions to drive your business forward."
 
-[0:31 - 0:35]
+*[Scene 5: Benefits] (45s-55s)*
 
-(Visuals of a customer receiving a digital receipt, with a smile)
 
-Narrator: "Deliver exceptional customer experiences with our user-friendly interface and digital receipts, making it easy to stay connected with your customers."
+- Animated graphics illustrating:
+    - Increased sales
+    - Reduced cart abandonment
+    - Improved customer satisfaction
+    - Cost savings
+- Narrator: "Boost sales, reduce costs, and delight customers with PBoti."
 
-[0:36 - 0:40]
 
-(Camera shows a cashier effortlessly processing a refund, with a satisfied customer)
+*[Scene 6: Call-to-Action] (55s-60s)*
 
-Narrator: "Effortlessly process refunds, returns, and exchanges with our intuitive system, ensuring customer satisfaction and loyalty."
 
-[0:41 - 0:45]
+- Animated graphics with contact information (email, phone number, website)
+- Narrator: "Join the retail revolution! Sign up for our demo today and experience PBoti's power."
 
-(Visuals of the pjtechPOS logo, with a tagline "Empower Your Business. Elevate Your Success.")
 
-Narrator: "pjtechPOS - the smart choice for modern retailers, empowering your business to succeed in today's fast-paced retail environment."
-
-[0:46 - 0:59]
-
-(Visuals of the supermarket, with customers shopping and transactions happening smoothly)
-
-Narrator: "Upgrade to pjtechPOS today and transform your retail experience. Visit our website or contact us to learn more."
-
-[0:60]
-
-(Closing shot of the pjtechPOS logo, with a call-to-action - Visit our website or contact us)
-
-Narrator: "pjtechPOS - Empowering Your Business. Elevating Your Success."
-
-(Closing music plays as the advertisement ends)
+*Closing shot:* PJTech logo, tagline ("Empowering businesses, one sale at a time"), and call-to-action
