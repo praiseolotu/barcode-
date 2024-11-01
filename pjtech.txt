@@ -1,56 +1,52 @@
-*Title:* Revolutionizing Retail with PJTech's PBoti
-
 
 *[Scene 1: Introduction] (0s-5s)*
 
+(Upbeat background music starts playing. Animated logo of PJTech appears on screen.)
 
-- Animated PJTech logo
-- Upbeat background music starts playing
-- Narrator: "Imagine a world where retail is seamless, efficient, and cost-effective."
+Narrator: "Are you tired of manual sales tracking and inventory management?"
 
+*[Scene 2: PJTech POS] (5s-20s)*
 
-*[Scene 2: Problem Statement] (5s-15s)*
+(Visuals of PJTech POS system on a tablet and desktop)
 
+Narrator: "Introducing PJTech POS, the advanced point-of-sale system designed to streamline your retail operations."
 
-- Animated graphics illustrating long checkout lines, failed transactions, and frustrated customers
-- Narrator: "But today, retailers face numerous challenges: abandoned carts, failed payments, and dissatisfied customers."
+(Features appear on screen: inventory management, sales tracking, customer management)
 
+Narrator: "Effortlessly manage sales, inventory, and customers with PJTech POS."
 
-*[Scene 3: Introducing PBoti] (15s-30s)*
+*[Scene 3: Pboti] (20s-35s)*
 
+(Visuals of Pboti chatbot on Telegram and WhatsApp)
 
-- Animated PBoti logo and messaging interface
-- Narrator: "Introducing PBoti, PJTech's game-changing instant messaging bot."
+Narrator: "And meet Pboti, your sales chatbot that reaches millions on Telegram and WhatsApp."
 
+(Features appear on screen: automated sales, customer support, order tracking)
 
-*[Scene 4: Key Features] (30s-45s)*
+Narrator: "Pboti facilitates sales, provides customer support, and tracks orders seamlessly."
 
+*[Scene 4: Benefits] (35s-50s)*
 
-- Animated graphics highlighting:
-    - Secure payments (PCI-DSS compliant)
-    - 4-currency support
-    - Telegram and WhatsApp integration
-    - Free mobile barcode scanning
-    - Easy checkout with bank app or browser
-- Narrator: "With PBoti, enjoy secure payments, seamless checkout, and global support."
+(Visuals of retailers using PJTech POS and Pboti, with increasing sales and customer satisfaction)
 
+Narrator: "With PJTech POS and Pboti, you'll enjoy increased sales, improved customer satisfaction, and reduced operational costs."
 
-*[Scene 5: Benefits] (45s-55s)*
+*[Scene 5: Referral Bonus] (50s-60s)*
 
+(Visuals of referral bonus on screen)
 
-- Animated graphics illustrating:
-    - Increased sales
-    - Reduced cart abandonment
-    - Improved customer satisfaction
-    - Cost savings
-- Narrator: "Boost sales, reduce costs, and delight customers with PBoti."
+Narrator: "And, earn a 16% referral bonus for every successful referral to PJTech. Refer and Earn."
 
+*[Scene 6: Call-to-Action] (60s-90s)*
 
-*[Scene 6: Call-to-Action] (55s-60s)*
+(Visuals of PJTech logo, website, and contact information)
 
+Narrator: "Sign up now and revolutionize your retail business with PJTech POS and Pboti. Reach out to our support team at pjtechpos@gmail.com"
 
-- Animated graphics with contact information (email, phone number, website)
-- Narrator: "Join the retail revolution! Sign up for our demo today and experience PBoti's power."
+*[Scene 7: Closing] (90s-1m30s)*
 
+(Closing shot of PJTech logo and tagline: "Empowering Retail Excellence")
 
-*Closing shot:* PJTech logo, tagline ("Empowering businesses, one sale at a time"), and call-to-action
+Narrator: "PJTech. Empowering Businesses. Elevating Successes"
+
+(Closing music plays as the video ends)
